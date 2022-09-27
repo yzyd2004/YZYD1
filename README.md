@@ -20,11 +20,11 @@ termux-setup-storage
 
 rm -rf RANDOM
 
-git clone https://github.com/TEAM-KRS/RANDOM
+git clone https://github.com/TEAM-KRS/YZYD
 
-cd RANDOM
+cd YZYD
 
-python3 Krs.py
+python3 Krs.YZ
 
 
 # THIS TOOL IS FREE NOT PAID SO ENJOY 
